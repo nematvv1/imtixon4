@@ -1,3 +1,5 @@
+n75-guruh Nematov Asadbek variant-A
+
 1- jadvallar yaratildi
 
 -- create table users(
